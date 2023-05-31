@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pocket Sommelier](https://github.com/AndreNelas93/pocketsommelier)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS and Advanced JavaScript**
 
 - 💬 Ask me about **Ruby on Rails**
 
